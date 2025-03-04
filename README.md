@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there, I'm [Kamal Sagpariya]!
 
-<!--
-**TheCoderKamal/TheCoderKamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **MERN Stack Developer** passionate about building scalable web applications and exploring new technologies. Apart from full-stack development, I have a keen interest in:
+- 🧠 **Machine Learning** - Making data-driven applications smarter
+- 🔐 **Cybersecurity** - Ensuring secure and ethical coding practices
+- 🎨 **Tailwind CSS & jQuery** - Crafting sleek and interactive UIs
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend
+- React.js
+- Tailwind CSS, jQuery
+- HTML5, CSS3, JavaScript (ES6+)
+
+### 🖥 Backend
+- Node.js, Express.js
+- RESTful APIs
+- Authentication (JWT, OAuth)
+
+### 🗄 Databases
+- MongoDB, MSSQL
+- Firebase
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCoderKamal&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+- 💼 [LinkedIn] https://www.linkedin.com/in/kamal-sagpariya-00461226b
+- ✉️ Email: kamal07.work@gmail.com
+
+---
+_⚡ Fun Fact: I love automating tasks and experimenting with new frameworks!_
+
+🔔 **Let's connect and collaborate!** 🚀
