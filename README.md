@@ -26,7 +26,7 @@ I'm a **MERN Stack Developer** passionate about building scalable web applicatio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCoderKamal&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn] https://www.linkedin.com/in/kamal-sagpariya-00461226b
+- 💼 LinkedIn: https://www.linkedin.com/in/kamal-sagpariya-00461226b
 - ✉️ Email: kamal07.work@gmail.com
 
 ---
