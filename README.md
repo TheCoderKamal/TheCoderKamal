@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Kamal Sagpariya]!
+# 👋 Hey there, I'm Kamal Sagpariya!
 
 ## 🚀 About Me
 I'm a **MERN Stack Developer** passionate about building scalable web applications and exploring new technologies. Apart from full-stack development, I have a keen interest in:
